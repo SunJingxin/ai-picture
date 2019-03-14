@@ -1,0 +1,22 @@
+{
+  "name": "ai-picture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sunjingxin:Aa1212120@github.com/SunJingxin/ai-picture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunJingxin/ai-picture/issues"
+  },
+  "homepage": "https://github.com/SunJingxin/ai-picture#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
