@@ -12,3 +12,5 @@ npm install
 node app.js
 
 # 安装pm2
+
+# 利用jenkins自动部署
